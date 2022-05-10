@@ -1,0 +1,7 @@
+.resources__logo {
+    transition: opacity 0.5s ease-out;
+}
+
+.resources__logo:hover {
+    opacity: 0.8;
+}
